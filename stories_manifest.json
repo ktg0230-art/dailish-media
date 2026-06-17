@@ -424,410 +424,340 @@
         "date":  "2026-07-18",
         "slot":  "am",
         "type":  "video",
-        "media":  "stories/069.mp4"
+        "media":  "stories/070.mp4"
     },
     {
         "seq":  62,
         "date":  "2026-07-18",
         "slot":  "pm",
-        "type":  "video",
-        "media":  "stories/070.mp4"
+        "type":  "photo",
+        "media":  "stories/071.png"
     },
     {
         "seq":  63,
         "date":  "2026-07-19",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/071.png"
+        "media":  "stories/072.png"
     },
     {
         "seq":  64,
         "date":  "2026-07-19",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/072.png"
+        "media":  "stories/073.png"
     },
     {
         "seq":  65,
         "date":  "2026-07-20",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/073.png"
+        "media":  "stories/074.png"
     },
     {
         "seq":  66,
         "date":  "2026-07-20",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/074.png"
+        "media":  "stories/075.png"
     },
     {
         "seq":  67,
         "date":  "2026-07-21",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/075.png"
+        "media":  "stories/076.png"
     },
     {
         "seq":  68,
         "date":  "2026-07-21",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/076.png"
+        "media":  "stories/077.png"
     },
     {
         "seq":  69,
         "date":  "2026-07-22",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/077.png"
+        "media":  "stories/078.png"
     },
     {
         "seq":  70,
         "date":  "2026-07-22",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/078.png"
+        "media":  "stories/079.png"
     },
     {
         "seq":  71,
         "date":  "2026-07-23",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/079.png"
+        "media":  "stories/080.png"
     },
     {
         "seq":  72,
         "date":  "2026-07-23",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/080.png"
+        "media":  "stories/081.png"
     },
     {
         "seq":  73,
         "date":  "2026-07-24",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/081.png"
+        "media":  "stories/082.png"
     },
     {
         "seq":  74,
         "date":  "2026-07-24",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/082.png"
+        "media":  "stories/083.png"
     },
     {
         "seq":  75,
         "date":  "2026-07-25",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/083.png"
+        "media":  "stories/090.png"
     },
     {
         "seq":  76,
         "date":  "2026-07-25",
         "slot":  "pm",
-        "type":  "video",
-        "media":  "stories/084.mp4"
+        "type":  "photo",
+        "media":  "stories/092.png"
     },
     {
         "seq":  77,
         "date":  "2026-07-26",
         "slot":  "am",
-        "type":  "video",
-        "media":  "stories/085.mp4"
+        "type":  "photo",
+        "media":  "stories/093.png"
     },
     {
         "seq":  78,
         "date":  "2026-07-26",
         "slot":  "pm",
-        "type":  "video",
-        "media":  "stories/086.mp4"
+        "type":  "photo",
+        "media":  "stories/094.png"
     },
     {
         "seq":  79,
         "date":  "2026-07-27",
         "slot":  "am",
-        "type":  "video",
-        "media":  "stories/087.mp4"
+        "type":  "photo",
+        "media":  "stories/095.png"
     },
     {
         "seq":  80,
         "date":  "2026-07-27",
         "slot":  "pm",
-        "type":  "video",
-        "media":  "stories/088.mp4"
+        "type":  "photo",
+        "media":  "stories/096.png"
     },
     {
         "seq":  81,
         "date":  "2026-07-28",
         "slot":  "am",
-        "type":  "video",
-        "media":  "stories/089.mp4"
+        "type":  "photo",
+        "media":  "stories/097.png"
     },
     {
         "seq":  82,
         "date":  "2026-07-28",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/090.png"
+        "media":  "stories/098.png"
     },
     {
         "seq":  83,
         "date":  "2026-07-29",
         "slot":  "am",
-        "type":  "video",
-        "media":  "stories/091.mp4"
+        "type":  "photo",
+        "media":  "stories/099.png"
     },
     {
         "seq":  84,
         "date":  "2026-07-29",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/092.png"
+        "media":  "stories/100.png"
     },
     {
         "seq":  85,
         "date":  "2026-07-30",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/093.png"
+        "media":  "stories/101.png"
     },
     {
         "seq":  86,
         "date":  "2026-07-30",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/094.png"
+        "media":  "stories/102.png"
     },
     {
         "seq":  87,
         "date":  "2026-07-31",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/095.png"
+        "media":  "stories/103.png"
     },
     {
         "seq":  88,
         "date":  "2026-07-31",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/096.png"
+        "media":  "stories/104.png"
     },
     {
         "seq":  89,
         "date":  "2026-08-01",
         "slot":  "am",
-        "type":  "photo",
-        "media":  "stories/097.png"
+        "type":  "video",
+        "media":  "stories/106.mp4"
     },
     {
         "seq":  90,
         "date":  "2026-08-01",
         "slot":  "pm",
-        "type":  "photo",
-        "media":  "stories/098.png"
+        "type":  "video",
+        "media":  "stories/108.mp4"
     },
     {
         "seq":  91,
         "date":  "2026-08-02",
         "slot":  "am",
-        "type":  "photo",
-        "media":  "stories/099.png"
+        "type":  "video",
+        "media":  "stories/109.mov"
     },
     {
         "seq":  92,
         "date":  "2026-08-02",
         "slot":  "pm",
-        "type":  "photo",
-        "media":  "stories/100.png"
+        "type":  "video",
+        "media":  "stories/110.mov"
     },
     {
         "seq":  93,
         "date":  "2026-08-03",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/101.png"
+        "media":  "stories/111.png"
     },
     {
         "seq":  94,
         "date":  "2026-08-03",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/102.png"
+        "media":  "stories/112.png"
     },
     {
         "seq":  95,
         "date":  "2026-08-04",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/103.png"
+        "media":  "stories/113.png"
     },
     {
         "seq":  96,
         "date":  "2026-08-04",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/104.png"
+        "media":  "stories/114.png"
     },
     {
         "seq":  97,
         "date":  "2026-08-05",
         "slot":  "am",
-        "type":  "video",
-        "media":  "stories/105.mp4"
+        "type":  "photo",
+        "media":  "stories/115.png"
     },
     {
         "seq":  98,
         "date":  "2026-08-05",
         "slot":  "pm",
-        "type":  "video",
-        "media":  "stories/106.mp4"
+        "type":  "photo",
+        "media":  "stories/116.png"
     },
     {
         "seq":  99,
         "date":  "2026-08-06",
         "slot":  "am",
-        "type":  "video",
-        "media":  "stories/107.mp4"
+        "type":  "photo",
+        "media":  "stories/117.png"
     },
     {
         "seq":  100,
         "date":  "2026-08-06",
         "slot":  "pm",
-        "type":  "video",
-        "media":  "stories/108.mp4"
+        "type":  "photo",
+        "media":  "stories/118.png"
     },
     {
         "seq":  101,
         "date":  "2026-08-07",
         "slot":  "am",
-        "type":  "video",
-        "media":  "stories/109.mov"
+        "type":  "photo",
+        "media":  "stories/119.png"
     },
     {
         "seq":  102,
         "date":  "2026-08-07",
         "slot":  "pm",
-        "type":  "video",
-        "media":  "stories/110.mov"
+        "type":  "photo",
+        "media":  "stories/120.png"
     },
     {
         "seq":  103,
         "date":  "2026-08-08",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/111.png"
+        "media":  "stories/121.png"
     },
     {
         "seq":  104,
         "date":  "2026-08-08",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/112.png"
+        "media":  "stories/122.png"
     },
     {
         "seq":  105,
         "date":  "2026-08-09",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/113.png"
+        "media":  "stories/123.png"
     },
     {
         "seq":  106,
         "date":  "2026-08-09",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/114.png"
+        "media":  "stories/124.png"
     },
     {
         "seq":  107,
         "date":  "2026-08-10",
         "slot":  "am",
         "type":  "photo",
-        "media":  "stories/115.png"
+        "media":  "stories/125.png"
     },
     {
         "seq":  108,
         "date":  "2026-08-10",
         "slot":  "pm",
         "type":  "photo",
-        "media":  "stories/116.png"
+        "media":  "stories/126.png"
     },
     {
         "seq":  109,
         "date":  "2026-08-11",
-        "slot":  "am",
-        "type":  "photo",
-        "media":  "stories/117.png"
-    },
-    {
-        "seq":  110,
-        "date":  "2026-08-11",
-        "slot":  "pm",
-        "type":  "photo",
-        "media":  "stories/118.png"
-    },
-    {
-        "seq":  111,
-        "date":  "2026-08-12",
-        "slot":  "am",
-        "type":  "photo",
-        "media":  "stories/119.png"
-    },
-    {
-        "seq":  112,
-        "date":  "2026-08-12",
-        "slot":  "pm",
-        "type":  "photo",
-        "media":  "stories/120.png"
-    },
-    {
-        "seq":  113,
-        "date":  "2026-08-13",
-        "slot":  "am",
-        "type":  "photo",
-        "media":  "stories/121.png"
-    },
-    {
-        "seq":  114,
-        "date":  "2026-08-13",
-        "slot":  "pm",
-        "type":  "photo",
-        "media":  "stories/122.png"
-    },
-    {
-        "seq":  115,
-        "date":  "2026-08-14",
-        "slot":  "am",
-        "type":  "photo",
-        "media":  "stories/123.png"
-    },
-    {
-        "seq":  116,
-        "date":  "2026-08-14",
-        "slot":  "pm",
-        "type":  "photo",
-        "media":  "stories/124.png"
-    },
-    {
-        "seq":  117,
-        "date":  "2026-08-15",
-        "slot":  "am",
-        "type":  "photo",
-        "media":  "stories/125.png"
-    },
-    {
-        "seq":  118,
-        "date":  "2026-08-15",
-        "slot":  "pm",
-        "type":  "photo",
-        "media":  "stories/126.png"
-    },
-    {
-        "seq":  119,
-        "date":  "2026-08-16",
         "slot":  "am",
         "type":  "photo",
         "media":  "stories/127.png"
