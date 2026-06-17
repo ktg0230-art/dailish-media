@@ -1,0 +1,26 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>데일리시 스토리 영상 검토</title>
+<style>
+:root{--bg:#faf7f4;--card:#fff;--ink:#2b2b2b;--mut:#9b8e85;--line:#ece4dd;--ac:#c9a27a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,'Segoe UI','Malgun Gothic',sans-serif}
+header{padding:20px 16px 6px;text-align:center}h1{margin:0;font-size:19px}.sub{color:var(--mut);font-size:13px;margin-top:5px}
+.sub a{color:var(--ac)}
+.note{max-width:760px;margin:10px auto 0;font-size:12.5px;color:#7a6e64;background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 14px;line-height:1.5}
+.wrap{max-width:1100px;margin:0 auto;padding:14px;display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;position:relative}
+.num{position:absolute;top:6px;left:6px;background:var(--ac);color:#fff;font-weight:800;font-size:14px;padding:3px 10px;border-radius:8px;z-index:2}
+.thumb{width:100%;aspect-ratio:9/16;object-fit:cover;background:#000;display:block}
+.body{padding:8px 10px 10px;font-size:12px}.d{font-weight:700}.s{color:var(--mut)}
+</style></head><body>
+<header><h1>스토리 영상 검토 (18개)</h1>
+<div class="sub"><a href="stories.html">← 전체로</a></div>
+<div class="note">▶ 재생해서 보고, 뺄 영상의 <b>번호(#)</b>를 알려주세요. (번호는 전체 스토리와 동일)</div></header>
+<div class="wrap" id="grid"></div>
+<script>
+var DATA={"value":[{"seq":15,"date":"2026-06-25","slot":"am","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/023.mp4"},{"seq":16,"date":"2026-06-25","slot":"pm","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/024.mp4"},{"seq":29,"date":"2026-07-02","slot":"am","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/037.mp4"},{"seq":61,"date":"2026-07-18","slot":"am","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/069.mp4"},{"seq":62,"date":"2026-07-18","slot":"pm","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/070.mp4"},{"seq":76,"date":"2026-07-25","slot":"pm","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/084.mp4"},{"seq":77,"date":"2026-07-26","slot":"am","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/085.mp4"},{"seq":78,"date":"2026-07-26","slot":"pm","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/086.mp4"},{"seq":79,"date":"2026-07-27","slot":"am","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/087.mp4"},{"seq":80,"date":"2026-07-27","slot":"pm","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/088.mp4"},{"seq":81,"date":"2026-07-28","slot":"am","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/089.mp4"},{"seq":83,"date":"2026-07-29","slot":"am","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/091.mp4"},{"seq":97,"date":"2026-08-05","slot":"am","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/105.mp4"},{"seq":98,"date":"2026-08-05","slot":"pm","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/106.mp4"},{"seq":99,"date":"2026-08-06","slot":"am","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/107.mp4"},{"seq":100,"date":"2026-08-06","slot":"pm","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/108.mp4"},{"seq":101,"date":"2026-08-07","slot":"am","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/109.mov"},{"seq":102,"date":"2026-08-07","slot":"pm","thumb":"https://raw.githubusercontent.com/ktg0230-art/dailish-media/main/stories/110.mov"}],"Count":18};var g=document.getElementById('grid');
+DATA.forEach(function(e){
+  var c=document.createElement('div');c.className='card';
+  c.innerHTML='<span class="num">#'+e.seq+'</span><video class="thumb" src="'+e.thumb+'" controls preload="metadata"></video><div class="body"><span class="d">'+e.date.slice(5).replace('-','/')+'</span> <span class="s">'+e.slot.toUpperCase()+'</span></div>';
+  g.appendChild(c);
+});
+</script></body></html>
